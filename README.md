@@ -19,3 +19,11 @@ The code written following the [Docker - Build Infrastructure](https://developer
 ### Gruntwork - Introduction to Terraform
 
 The code written following the [Gruntwork - Introduction to Terraform](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180) tutorial is stored in the folder [`gruntwork-introduction-terraform`](./gruntwork-introduction-terraform/) of this repository.
+
+### Terraform for the Absolute Beginners with Labs
+
+The code written following the [Terraform for the Absolute Beginners with Labs](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) course is stored in the folder [`terraform-absolute-begginers`](./terraform-absolute-begginers/) of this repository.
+
+### Terraform Beginner to Advanced - Using Amazon Web Services
+
+The code written following the [Terraform Beginner to Advanced - Using Amazon Web Services](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) course is stored in the folder [`terraform-begginers-advanced-aws`](./terraform-begginers-advanced-aws/) of this repository.
