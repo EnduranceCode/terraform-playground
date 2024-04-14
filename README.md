@@ -26,4 +26,4 @@ The code written following the [Terraform for the Absolute Beginners with Labs](
 
 ### Terraform Beginner to Advanced - Using Amazon Web Services
 
-The code written following the [Terraform Beginner to Advanced - Using Amazon Web Services](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) course is stored in the folder [`terraform-begginers-advanced-aws`](./terraform-begginers-advanced-aws/) of this repository.
+The code written following the [Terraform Beginner to Advanced - Using Amazon Web Services](https://www.udemy.com/course/terraform-beginner-to-advanced-using-amazon-web-services/) course is stored in the folder [`terraform-begginers-to-advanced`](./terraform-begginers-to-advanced/) of this repository.
